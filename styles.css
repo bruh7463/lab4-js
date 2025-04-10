@@ -350,11 +350,15 @@ nav ul li a:hover, nav ul li a.active {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
 }
 
-.faq-item h3 {
+.question {
     cursor: pointer;
 }
 
-.faq-item h3, .faq-item p {
+.question:hover {
+    color: #0066cc;
+}
+
+.question, .answer {
     text-align: center;
 }
 
