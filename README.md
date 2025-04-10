@@ -22,7 +22,7 @@ A responsive website with interactive features. Built with HTML, CSS, and JavaSc
 - Form reset after submission
 - Error alerts for missing fields
 
-### FAQ Accordion
+### FAQ Component
 - Interactive question/answer section
 - Click questions to toggle answer visibility
 - Dynamic class switching (`visible` class toggle)
